@@ -5,7 +5,7 @@ A collection of resources related to Project Name_TBD
 ## Introduction, Theory  
 
 ### NLP, General  
-A Unified Theory of Inference for Text Understanding
+A Unified Theory of Inference for Text Understanding  
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 
 Repository to track the progress in Natural Language Processing  
@@ -25,10 +25,10 @@ https://arxiv.org/abs/1902.01119
 Deep Learning with Knowledge Graphs  
 https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 
-Geometry of Thought
+Geometry of Thought  
 http://nautil.us/blog/new-evidence-for-the-geometry-of-thought
 
-Geometry of Meaning
+Geometry of Meaning  
 https://www.youtube.com/watch?v=L0X9mEe9aY0&app=desktop
 
 ### 
