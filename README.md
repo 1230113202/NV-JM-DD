@@ -36,6 +36,8 @@ http://nautil.us/blog/new-evidence-for-the-geometry-of-thought
 Geometry of Meaning  
 https://www.youtube.com/watch?v=L0X9mEe9aY0&app=desktop
   
+Interacting Conceptual Spaces    
+https://arxiv.org/abs/1608.01402  
   
 ### 
 
@@ -54,17 +56,17 @@ OpenAI GPT2
 https://openai.com/blog/better-language-models/
 
 ### Knowledge 
-How NASA experiments with knowledge discovery
+How NASA experiments with knowledge discovery  
 https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/
 
 
 
 ## Data
 ### Language 
-Sign Language
+Sign Language  
 https://www.ethnologue.com/subgroups/sign-language
 
 
 ## Others
-The power of words to shape perception
+The power of words to shape perception  
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
