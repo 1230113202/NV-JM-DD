@@ -10,20 +10,20 @@ https://github.com/sebastianruder/NLP-progress
 
 #### Introduction and discussion on various Generalized Language Models
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
-
+   
 ### Sentence Embedding
 #### Methods for computing sentence representations from pretrained word embeddings without any additional training
 https://code.fb.com/ml-applications/random-encoders/
-
-
+   
+   
 ### Knowledge and Representations
 #### A general framework for learning context-based action representation for Reinforcement Learning
 https://arxiv.org/abs/1902.01119
-
+    
 #### Deep Learning with Knowledge Graphs
 https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 
-
+   
 
 ## Tool, Code, Application
 ### NLP
