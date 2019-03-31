@@ -4,14 +4,14 @@ A collection of resources
 
 ## Theory
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 ### NLP, General
-Repository to track the progress in Natural Language Processing
+#### Repository to track the progress in Natural Language Processing
 https://github.com/sebastianruder/NLP-progress
 
 ### Sentence Embedding
-
+#### Methods for computing sentence representations from pretrained word embeddings without any additional training
 https://code.fb.com/ml-applications/random-encoders/
+
 
 ### Installing
 
