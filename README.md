@@ -14,9 +14,11 @@ https://github.com/sebastianruder/NLP-progress
 Introduction and discussion on various Generalized Language Models  
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
    
+   
 ### Sentence Embedding
 Methods for computing sentence representations from pretrained word embeddings without any additional training  
 https://code.fb.com/ml-applications/random-encoders/
+   
    
 ### Knowledge and Representations
 A general framework for learning context-based action representation for Reinforcement Learning  
@@ -30,7 +32,8 @@ http://nautil.us/blog/new-evidence-for-the-geometry-of-thought
 
 Geometry of Meaning  
 https://www.youtube.com/watch?v=L0X9mEe9aY0&app=desktop
-
+  
+  
 ### 
 
 
