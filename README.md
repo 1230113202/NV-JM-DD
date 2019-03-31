@@ -2,9 +2,12 @@
 
 A collection of resources related to Project Name_TBD
 
-## Theory  
+## Introduction, Theory  
 
 ### NLP, General  
+A Unified Theory of Inference for Text Understanding
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
+
 Repository to track the progress in Natural Language Processing  
 https://github.com/sebastianruder/NLP-progress
 
@@ -22,7 +25,18 @@ https://arxiv.org/abs/1902.01119
 Deep Learning with Knowledge Graphs  
 https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 
-   
+Geometry of Thought
+http://nautil.us/blog/new-evidence-for-the-geometry-of-thought
+
+Geometry of Meaning
+https://www.youtube.com/watch?v=L0X9mEe9aY0&app=desktop
+
+### 
+
+
+### Sign Language
+Sign Language & Linguistics
+https://benjamins.com/catalog/sll
 
 ## Tool, Code, Application  
 
@@ -34,12 +48,14 @@ https://stanfordnlp.github.io/stanfordnlp/
 How NASA experiments with knowledge discovery
 https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/
 
-### Break down into end to end tests
 
 
-## Dataset
+## Data
+### Language 
+Sign Language
+https://www.ethnologue.com/subgroups/sign-language
 
-Add additional notes about how to deploy this on a live system
+
 ## Others
-#### The power of words to shape perception
+The power of words to shape perception
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
