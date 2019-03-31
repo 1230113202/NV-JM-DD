@@ -2,9 +2,9 @@
 
 A collection of resources related to Project Name_TBD
 
-## Theory
+## Theory  
 
-### NLP, General
+### NLP, General  
 Repository to track the progress in Natural Language Processing  
 https://github.com/sebastianruder/NLP-progress
 
@@ -24,13 +24,14 @@ https://medium.com/octavian-ai/deep-learning-with-knowledge-graphs-3df0b469a61a
 
    
 
-## Tool, Code, Application
+## Tool, Code, Application  
+
 ### NLP
-#### StanfordNLP, a Python natural language analysis package
+StanfordNLP, a Python natural language analysis package
 https://stanfordnlp.github.io/stanfordnlp/
 
 ### Knowledge 
-#### How NASA experiments with knowledge discovery
+How NASA experiments with knowledge discovery
 https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/
 
 ### Break down into end to end tests
