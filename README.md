@@ -15,9 +15,12 @@ Introduction and discussion on various Generalized Language Models
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
    
    
-### Sentence Embedding
+### Word contextual representaiton, Sentence Embedding
 Methods for computing sentence representations from pretrained word embeddings without any additional training  
 https://code.fb.com/ml-applications/random-encoders/
+
+Contextual Word Representations  
+https://arxiv.org/abs/1902.06006
    
    
 ### Knowledge and Representations
@@ -38,14 +41,17 @@ https://www.youtube.com/watch?v=L0X9mEe9aY0&app=desktop
 
 
 ### Sign Language
-Sign Language & Linguistics
+Sign Language & Linguistics  
 https://benjamins.com/catalog/sll
 
 ## Tool, Code, Application  
 
 ### NLP
-StanfordNLP, a Python natural language analysis package
+StanfordNLP, a Python natural language analysis package  
 https://stanfordnlp.github.io/stanfordnlp/
+
+OpenAI GPT2  
+https://openai.com/blog/better-language-models/
 
 ### Knowledge 
 How NASA experiments with knowledge discovery
