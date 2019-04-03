@@ -4,7 +4,11 @@ A collection of resources related to Project Name_TBD
 
 ## Introduction, Theory  
 
-### NLP, General  
+### Must Watch
+CS224n: Natural Language Processing with Deep Learning  
+http://onlinehub.stanford.edu/cs224
+
+### NLP, General 
 A Unified Theory of Inference for Text Understanding  
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 
@@ -47,10 +51,6 @@ Decentralised Knowledge Graph
 https://www.youtube.com/watch?v=hm9ibPZOUcw
 https://fosdem.org/2019/schedule/event/graph_weaviate_knowledge_graph/
 
-
-### 
-
-
 ### Sign Language
 Sign Language & Linguistics  
 https://benjamins.com/catalog/sll
@@ -62,13 +62,22 @@ StanfordNLP, a Python natural language analysis package
 https://stanfordnlp.github.io/stanfordnlp/
 
 OpenAI GPT2  
-https://openai.com/blog/better-language-models/
+https://openai.com/blog/better-language-models/  
+
+PyTorch Pretrained BERT: The Big & Extending Repository of pretrained Transformers  
+https://github.com/huggingface/pytorch-pretrained-BERT  
 
 ### Knowledge 
 How NASA experiments with knowledge discovery  
 https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/
 
+### Inspection tools
+Giant Language model Test Room  
+http://gltr.io/dist/index.html  
 
+### Generation 
+Plotto, "algebra" for stories   
+https://github.com/garykac/plotto/blob/gh-pages/how-to.md
 
 ## Data
 
@@ -76,11 +85,20 @@ https://linkurio.us/blog/how-nasa-experiments-with-knowledge-discovery/
 A straightfoward library that allows you to crawl, clean up, and deduplicate webpages to create massive monolingual datasets  
 https://github.com/chiphuyen/lazynlp
 
-### Language 
+### Language, Dictionary
 Sign Language  
 https://www.ethnologue.com/subgroups/sign-language
 
+Oxford 3000  
+https://www.smartcom.vn/the_oxford_3000.pdf
 
-## Others
+Simple English  
+https://en.wikipedia.org/wiki/Simple_English_Wikipedia
+
+Natural Semantic Metalanguage  
+https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
+
+
+## Other
 The power of words to shape perception  
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
