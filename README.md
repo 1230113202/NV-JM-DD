@@ -79,6 +79,11 @@ http://gltr.io/dist/index.html
 Plotto, "algebra" for stories   
 https://github.com/garykac/plotto/blob/gh-pages/how-to.md
 
+### Graph neural network in NLP, Geometric Deeplearning on graphs
+Geometric deep learning   
+http://geometricdeeplearning.com/  
+
+
 ## Data
 
 ### Corpus
