@@ -9,6 +9,9 @@ CS224n: Natural Language Processing with Deep Learning
 http://onlinehub.stanford.edu/cs224
 
 ### NLP, General 
+Natural Language Processing Tutorial with less! than! 100! lines! of code  
+https://github.com/graykode/nlp-tutorial
+
 A Unified Theory of Inference for Text Understanding  
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 
@@ -17,6 +20,8 @@ https://github.com/sebastianruder/NLP-progress
 
 Introduction and discussion on various Generalized Language Models  
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
+
+
    
    
 ### Word and Sentence Contextual representaiton
