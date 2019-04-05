@@ -12,19 +12,11 @@ http://onlinehub.stanford.edu/cs224
 Natural Language Processing Tutorial with less! than! 100! lines! of code in Colab  
 https://github.com/graykode/nlp-tutorial
 
-A Unified Theory of Inference for Text Understanding  
-https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
-
 Repository to track the progress in Natural Language Processing  
 https://github.com/sebastianruder/NLP-progress
 
-Introduction and discussion on various Generalized Language Models  
-https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
 
-
-   
-   
-### Word and Sentence Contextual representaiton
+### Word/Sentence Contextual representaiton, Language Models 
 Methods for computing sentence representations from pretrained word embeddings without any additional training  
 https://code.fb.com/ml-applications/random-encoders/
 
@@ -34,9 +26,14 @@ https://arxiv.org/abs/1902.06006
 Sentence and Contextualized Word Representations  
 https://www.youtube.com/watch?v=Ioqrw4sCcwQ
 
+Introduction and discussion on various Generalized Language Models  
+https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
 
    
 ### Knowledge and Representations
+A Unified Theory of Inference for Text Understanding  
+https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
+
 A general framework for learning context-based action representation for Reinforcement Learning  
 https://arxiv.org/abs/1902.01119
 
