@@ -9,11 +9,19 @@ CS224n: Natural Language Processing with Deep Learning
 http://onlinehub.stanford.edu/cs224
 
 ### NLP, General 
+Repository to track the progress in Natural Language Processing  
+https://github.com/sebastianruder/NLP-progress
+
+NLP1001-Knock (In Japanese)
+Practice: http://www.cl.ecei.tohoku.ac.jp/nlp100/
+Code Reference: https://github.com/r9y9/nlp100
+
+Modern Deep Learning Techniques Applied to Natural Language Processing
+https://nlpoverview.com/
+
 Natural Language Processing Tutorial with less! than! 100! lines! of code in Colab  
 https://github.com/graykode/nlp-tutorial
 
-Repository to track the progress in Natural Language Processing  
-https://github.com/sebastianruder/NLP-progress
 
 
 ### Word/Sentence Contextual representaiton, Language Models 
