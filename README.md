@@ -12,19 +12,8 @@ http://onlinehub.stanford.edu/cs224
 Repository to track the progress in Natural Language Processing  
 https://github.com/sebastianruder/NLP-progress
 
-NLP1001-Knock (In Japanese)
-Practice:   
-http://www.cl.ecei.tohoku.ac.jp/nlp100/  
-Code Reference:   
-https://github.com/r9y9/nlp100  
-
-Modern Deep Learning Techniques Applied to Natural Language Processing
+Modern Deep Learning Techniques Applied to Natural Language Processing  
 https://nlpoverview.com/
-
-Natural Language Processing Tutorial with less! than! 100! lines! of code in Colab  
-https://github.com/graykode/nlp-tutorial
-
-
 
 ### Word/Sentence Contextual representaiton, Language Models 
 Methods for computing sentence representations from pretrained word embeddings without any additional training  
@@ -116,6 +105,20 @@ Natural Semantic Metalanguage
 https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
 
 
-## Other
+## Blogs, Newsletters  
+Cognitionx, AI ADVICE PLATFORM  
+https://cognitionx.com/directory/news/  
+
+Towards Data Science, Sharing concepts, ideas, and codes
+https://towardsdatascience.com/
+
+Jay Alammar's blog, Visualizing machine learning one concept at a time
+http://jalammar.github.io/
+
+DEEP LEARNING EXPLAINED  
+https://www.lyrn.ai/  
+
+
+## Others
 The power of words to shape perception  
 https://www.scientificamerican.com/article/our-language-affects-what-we-see/
