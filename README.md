@@ -9,7 +9,7 @@ CS224n: Natural Language Processing with Deep Learning
 http://onlinehub.stanford.edu/cs224
 
 ### NLP, General 
-Natural Language Processing Tutorial with less! than! 100! lines! of code  
+Natural Language Processing Tutorial with less! than! 100! lines! of code in Colab  
 https://github.com/graykode/nlp-tutorial
 
 A Unified Theory of Inference for Text Understanding  
