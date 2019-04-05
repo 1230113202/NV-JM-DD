@@ -109,13 +109,13 @@ https://en.wikipedia.org/wiki/Natural_semantic_metalanguage
 Cognitionx, AI ADVICE PLATFORM  
 https://cognitionx.com/directory/news/  
 
-Towards Data Science, Sharing concepts, ideas, and codes
+Towards Data Science, Sharing concepts, ideas, and codes  
 https://towardsdatascience.com/
 
-Jay Alammar's blog, Visualizing machine learning one concept at a time
+Jay Alammar's blog, Visualizing machine learning one concept at a time  
 http://jalammar.github.io/
 
-DEEP LEARNING EXPLAINED  
+DEEP LEARNING EXPLAINED   
 https://www.lyrn.ai/  
 
 
