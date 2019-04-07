@@ -34,8 +34,6 @@ A Unified Theory of Inference for Text Understanding
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 
 Deep Learning on Graphs Intro  
-https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-2c558b7035d7
-https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-b-deep-learning-on-graphs-309316774fe7
 https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-2-building-a-knowledge-graph-2fdd1370bb0a
 
 
