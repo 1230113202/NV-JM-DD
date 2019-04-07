@@ -33,8 +33,9 @@ https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
 A Unified Theory of Inference for Text Understanding  
 https://www2.eecs.berkeley.edu/Pubs/TechRpts/1987/CSD-87-339.pdf
 
-Deep Learning on Graphs Intro  
+Knowledge Graph Intros    
 https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-2-building-a-knowledge-graph-2fdd1370bb0a
+https://medium.com/@sderymail/challenges-of-knowledge-graph-part-1-d9ffe9e35214
 
 
 A general framework for learning context-based action representation for Reinforcement Learning  
