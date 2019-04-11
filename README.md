@@ -15,7 +15,7 @@ https://github.com/sebastianruder/NLP-progress
 Modern Deep Learning Techniques Applied to Natural Language Processing  
 https://nlpoverview.com/
 
-### Word/Sentence Contextual representaiton, Language Models 
+### Word/Sentence Contextual representation, Language Models 
 Methods for computing sentence representations from pretrained word embeddings without any additional training  
 https://code.fb.com/ml-applications/random-encoders/
 
@@ -27,6 +27,12 @@ https://www.youtube.com/watch?v=Ioqrw4sCcwQ
 
 Introduction and discussion on various Generalized Language Models  
 https://lilianweng.github.io/lil-log/2019/01/31/generalized-language-models.html
+
+Cr5, model for crosslingual document embedding
+Input: text in any of 28 languages
+Output: language-independent vector representation, so you can compare text across langs
+Pre-trained model and API: https://github.com/epfl-dlab/Cr5 (Numpy/cython/Intel stuff)
+Paper: "Crosslingual Document Embeddingas Reduced-Rank Ridge Regression" https://dlab.epfl.ch/people/west/pub/Josifoski-Paskov-Paskov-Jaggi-West_WSDM-19.pdf
 
    
 ### Knowledge and Representations
